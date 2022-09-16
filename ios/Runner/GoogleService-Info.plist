@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>602123952001-ri95lk5b9t8tbb3d6ter3jb04rd70d0l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.602123952001-ri95lk5b9t8tbb3d6ter3jb04rd70d0l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBDxmbTQOOTt63tFrL-DmM9w23UJFUOREs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>602123952001</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.godHelp</string>
+	<key>PROJECT_ID</key>
+	<string>somesmeshariki</string>
+	<key>STORAGE_BUCKET</key>
+	<string>somesmeshariki.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:602123952001:ios:1ce4433411061f2fac9280</string>
+	<key>DATABASE_URL</key>
+	<string>https://somesmeshariki-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
